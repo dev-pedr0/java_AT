@@ -1,0 +1,8 @@
+
+Produto: Arroz | Quantidade: 5 | Preço: R$ 5.0
+
+Produto: Arroz | Quantidade: 5 | Preço: R$ 5.0
+
+Produto: Feijão | Quantidade: 10 | Preço: R$ 3.5
+
+Produto: Torta | Quantidade: 2 | Preço: R$ 23.45
